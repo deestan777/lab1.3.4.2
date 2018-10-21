@@ -1,16 +1,13 @@
 header,footer > div {
 	background-color: #f0f8ff;
-	display: block;
 	width: 100%;
 }
 
 header > div {
-	display: block;
 	text-align: right;
 }
 
-section > div{
-	display: block;
+section > div {
 	border: 1px solid blue; 
 	margin: 15px 15px 15px 15px;
 	padding: 5px 20px 20px 20px;
